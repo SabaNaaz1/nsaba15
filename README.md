@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @nsaba15
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-nsaba15/nsaba15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @nsaba15  
+👀 I’m interested in Artificial Intelligence, Machine Learning, and Electronics & Communication Engineering.  
+🌱 I’m currently learning Python, Machine Learning concepts, and Electromagnetic Field Theory.  
+💞️ I’m looking to collaborate on beginner-friendly ML projects, open-source contributions, and innovative IoT/AI applications.  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com) | Email: yourmail@example.com  
+😄 Pronouns: She/Her  
+⚡ Fun fact: I love exploring the blend of technology with creativity and enjoy breaking down complex concepts into simple explanations.  
